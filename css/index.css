@@ -3,7 +3,7 @@ body {
 }
 
 canvas {
-    background: #eeeeee;
+    background: url(https://www.redchili21.com/wp-content/uploads/2018/03/0.jpg) center 30px /70% no-repeat;
     display: block;
     margin: 100px auto 0;
     border: 2px solid black;

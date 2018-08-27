@@ -14,11 +14,11 @@ let paddleX = (cvs.width - paddleWidth) / 2;
 let pressRight = false;
 let pressLeft = false;
 
-let brickRowCount = 3;
-let brickColumnCount = 6;
+let brickRowCount = 8;
+let brickColumnCount = 7;
 let brickWidth = 60;
-let brickHeight = 20;
-let brickPadding = 10;
+let brickHeight = 25;
+let brickPadding = 0;
 let brickOffsetTop = 30;
 let brickOffsetLeft = 40;
 
